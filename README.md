@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Internet Business Modelling and Backend Services**
 
-- 🤝 I’m looking for help with **Scaling and Provide efficient web infrastructure**
+- 🤝 I’m looking for help with **Scaling and building efficient web infrastructure**
 
 - 💬 Ask me about **Nestjs, Reactjs, TypeOrm, Nodejs**
 
