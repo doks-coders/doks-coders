@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking to help with **scaling and building efficient web infrastructure**
 
-- 💬 Ask me about **Nestjs, Reactjs, TypeOrm, Nodejs**
+- 💬 Ask me about **Nestjs, Reactjs, TypeOrm, SQL, PostgreSQL, MongoDB, Nodejs**
 
 - 📫 How to reach me **guonnie@gmail.com**
 
