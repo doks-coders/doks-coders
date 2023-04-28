@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **API development, Database Structure, Cloud Deployment**
 
-- 👯 I’m looking to collaborate on **Internet Business Modelling and Backend Services**
+- 👯 I’m looking to collaborate on **Internet Business Logic and Backend Services**
 
 - 🤝 I’m looking to help with **scaling and building efficient web infrastructure**
 
